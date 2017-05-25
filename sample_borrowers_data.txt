@@ -1,0 +1,1200 @@
+{
+     "age": 61,
+     "amount_of_property": 52915,
+     "id": 0,
+     "income": 60029,
+     "loan_amount": 403150,
+     "occupation": "manager",
+     "purpose": "others",
+     "qualification": "Ms",
+     "term": "6m"
+}
+
+{
+     "age": 55,
+     "amount_of_property": 42935,
+     "id": 1,
+     "income": 51735,
+     "loan_amount": 163341,
+     "occupation": "engineer",
+     "purpose": "house",
+     "qualification": "Ms",
+     "term": "6m"
+}
+
+{
+     "age": 54,
+     "amount_of_property": 34485,
+     "id": 2,
+     "income": 56768,
+     "loan_amount": 301582,
+     "occupation": "others",
+     "purpose": "house",
+     "qualification": "Bs",
+     "term": "18m"
+}
+
+{
+     "age": 59,
+     "amount_of_property": 96000,
+     "id": 3,
+     "income": 54074,
+     "loan_amount": 183475,
+     "occupation": "engineer",
+     "purpose": "house",
+     "qualification": "Bs",
+     "term": "6m"
+}
+
+{
+     "age": 60,
+     "amount_of_property": 92887,
+     "id": 4,
+     "income": 55000,
+     "loan_amount": 166142,
+     "occupation": "manager",
+     "purpose": "car",
+     "qualification": "Bs",
+     "term": "18m"
+}
+
+{
+     "age": 36,
+     "amount_of_property": 64047,
+     "id": 5,
+     "income": 88257,
+     "loan_amount": 141267,
+     "occupation": "manager",
+     "purpose": "car",
+     "qualification": "Phd",
+     "term": "6m"
+}
+
+{
+     "age": 39,
+     "amount_of_property": 94012,
+     "id": 6,
+     "income": 62909,
+     "loan_amount": 470633,
+     "occupation": "engineer",
+     "purpose": "house",
+     "qualification": "Ms",
+     "term": "12m"
+}
+
+{
+     "age": 26,
+     "amount_of_property": 48047,
+     "id": 7,
+     "income": 61100,
+     "loan_amount": 53373,
+     "occupation": "manager",
+     "purpose": "others",
+     "qualification": "Bs",
+     "term": "12m"
+}
+
+{
+     "age": 57,
+     "amount_of_property": 44586,
+     "id": 8,
+     "income": 67540,
+     "loan_amount": 151868,
+     "occupation": "manager",
+     "purpose": "car",
+     "qualification": "Bs",
+     "term": "18m"
+}
+
+{
+     "age": 31,
+     "amount_of_property": 98181,
+     "id": 9,
+     "income": 56022,
+     "loan_amount": 64212,
+     "occupation": "others",
+     "purpose": "house",
+     "qualification": "Bs",
+     "term": "6m"
+}
+
+{
+     "age": 48,
+     "amount_of_property": 68698,
+     "id": 10,
+     "income": 72226,
+     "loan_amount": 126013,
+     "occupation": "others",
+     "purpose": "car",
+     "qualification": "Phd",
+     "term": "18m"
+}
+
+{
+     "age": 47,
+     "amount_of_property": 30137,
+     "id": 11,
+     "income": 52700,
+     "loan_amount": 285285,
+     "occupation": "engineer",
+     "purpose": "house",
+     "qualification": "Ms",
+     "term": "12m"
+}
+
+{
+     "age": 45,
+     "amount_of_property": 75982,
+     "id": 12,
+     "income": 85185,
+     "loan_amount": 269405,
+     "occupation": "others",
+     "purpose": "house",
+     "qualification": "Phd",
+     "term": "6m"
+}
+
+{
+     "age": 54,
+     "amount_of_property": 62836,
+     "id": 13,
+     "income": 58729,
+     "loan_amount": 264254,
+     "occupation": "others",
+     "purpose": "house",
+     "qualification": "Phd",
+     "term": "12m"
+}
+
+{
+     "age": 43,
+     "amount_of_property": 53418,
+     "id": 14,
+     "income": 83793,
+     "loan_amount": 498204,
+     "occupation": "manager",
+     "purpose": "others",
+     "qualification": "Ms",
+     "term": "18m"
+}
+
+{
+     "age": 69,
+     "amount_of_property": 91979,
+     "id": 15,
+     "income": 75551,
+     "loan_amount": 365293,
+     "occupation": "manager",
+     "purpose": "car",
+     "qualification": "Phd",
+     "term": "18m"
+}
+
+{
+     "age": 42,
+     "amount_of_property": 82570,
+     "id": 16,
+     "income": 53624,
+     "loan_amount": 413771,
+     "occupation": "others",
+     "purpose": "house",
+     "qualification": "Ms",
+     "term": "6m"
+}
+
+{
+     "age": 64,
+     "amount_of_property": 52845,
+     "id": 17,
+     "income": 87079,
+     "loan_amount": 99780,
+     "occupation": "engineer",
+     "purpose": "others",
+     "qualification": "Ms",
+     "term": "6m"
+}
+
+{
+     "age": 29,
+     "amount_of_property": 61743,
+     "id": 18,
+     "income": 91783,
+     "loan_amount": 170576,
+     "occupation": "manager",
+     "purpose": "house",
+     "qualification": "Ms",
+     "term": "6m"
+}
+
+{
+     "age": 60,
+     "amount_of_property": 40971,
+     "id": 19,
+     "income": 76365,
+     "loan_amount": 308470,
+     "occupation": "manager",
+     "purpose": "house",
+     "qualification": "Ms",
+     "term": "6m"
+}
+
+{
+     "age": 56,
+     "amount_of_property": 74540,
+     "id": 20,
+     "income": 50811,
+     "loan_amount": 213950,
+     "occupation": "others",
+     "purpose": "others",
+     "qualification": "Ms",
+     "term": "18m"
+}
+
+{
+     "age": 42,
+     "amount_of_property": 82571,
+     "id": 21,
+     "income": 76865,
+     "loan_amount": 161823,
+     "occupation": "engineer",
+     "purpose": "house",
+     "qualification": "Bs",
+     "term": "18m"
+}
+
+{
+     "age": 34,
+     "amount_of_property": 44437,
+     "id": 22,
+     "income": 69729,
+     "loan_amount": 313417,
+     "occupation": "manager",
+     "purpose": "house",
+     "qualification": "Phd",
+     "term": "6m"
+}
+
+{
+     "age": 42,
+     "amount_of_property": 44644,
+     "id": 23,
+     "income": 79283,
+     "loan_amount": 25280,
+     "occupation": "engineer",
+     "purpose": "house",
+     "qualification": "Ms",
+     "term": "12m"
+}
+
+{
+     "age": 25,
+     "amount_of_property": 46193,
+     "id": 24,
+     "income": 65651,
+     "loan_amount": 441561,
+     "occupation": "manager",
+     "purpose": "others",
+     "qualification": "Bs",
+     "term": "6m"
+}
+
+{
+     "age": 25,
+     "amount_of_property": 46341,
+     "id": 25,
+     "income": 88325,
+     "loan_amount": 166741,
+     "occupation": "engineer",
+     "purpose": "house",
+     "qualification": "Phd",
+     "term": "18m"
+}
+
+{
+     "age": 54,
+     "amount_of_property": 62169,
+     "id": 26,
+     "income": 91880,
+     "loan_amount": 401059,
+     "occupation": "engineer",
+     "purpose": "car",
+     "qualification": "Bs",
+     "term": "12m"
+}
+
+{
+     "age": 61,
+     "amount_of_property": 84944,
+     "id": 27,
+     "income": 73516,
+     "loan_amount": 35464,
+     "occupation": "others",
+     "purpose": "house",
+     "qualification": "Bs",
+     "term": "12m"
+}
+
+{
+     "age": 30,
+     "amount_of_property": 97678,
+     "id": 28,
+     "income": 55202,
+     "loan_amount": 445519,
+     "occupation": "manager",
+     "purpose": "car",
+     "qualification": "Bs",
+     "term": "18m"
+}
+
+{
+     "age": 62,
+     "amount_of_property": 56358,
+     "id": 29,
+     "income": 93077,
+     "loan_amount": 157313,
+     "occupation": "engineer",
+     "purpose": "house",
+     "qualification": "Ms",
+     "term": "12m"
+}
+
+{
+     "age": 49,
+     "amount_of_property": 99241,
+     "id": 30,
+     "income": 96631,
+     "loan_amount": 490127,
+     "occupation": "manager",
+     "purpose": "car",
+     "qualification": "Ms",
+     "term": "18m"
+}
+
+{
+     "age": 30,
+     "amount_of_property": 31378,
+     "id": 31,
+     "income": 89766,
+     "loan_amount": 158857,
+     "occupation": "others",
+     "purpose": "house",
+     "qualification": "Ms",
+     "term": "6m"
+}
+
+{
+     "age": 35,
+     "amount_of_property": 43005,
+     "id": 32,
+     "income": 77732,
+     "loan_amount": 159755,
+     "occupation": "others",
+     "purpose": "car",
+     "qualification": "Phd",
+     "term": "12m"
+}
+
+{
+     "age": 42,
+     "amount_of_property": 81334,
+     "id": 33,
+     "income": 51869,
+     "loan_amount": 29572,
+     "occupation": "engineer",
+     "purpose": "house",
+     "qualification": "Phd",
+     "term": "6m"
+}
+
+{
+     "age": 66,
+     "amount_of_property": 33451,
+     "id": 34,
+     "income": 65852,
+     "loan_amount": 281571,
+     "occupation": "manager",
+     "purpose": "house",
+     "qualification": "Phd",
+     "term": "6m"
+}
+
+{
+     "age": 69,
+     "amount_of_property": 40374,
+     "id": 35,
+     "income": 60451,
+     "loan_amount": 397953,
+     "occupation": "engineer",
+     "purpose": "car",
+     "qualification": "Bs",
+     "term": "6m"
+}
+
+{
+     "age": 51,
+     "amount_of_property": 48463,
+     "id": 36,
+     "income": 97398,
+     "loan_amount": 428269,
+     "occupation": "others",
+     "purpose": "others",
+     "qualification": "Ms",
+     "term": "6m"
+}
+
+{
+     "age": 69,
+     "amount_of_property": 82946,
+     "id": 37,
+     "income": 91079,
+     "loan_amount": 170834,
+     "occupation": "others",
+     "purpose": "car",
+     "qualification": "Ms",
+     "term": "18m"
+}
+
+{
+     "age": 57,
+     "amount_of_property": 97739,
+     "id": 38,
+     "income": 75591,
+     "loan_amount": 205109,
+     "occupation": "engineer",
+     "purpose": "car",
+     "qualification": "Ms",
+     "term": "12m"
+}
+
+{
+     "age": 41,
+     "amount_of_property": 40476,
+     "id": 39,
+     "income": 80328,
+     "loan_amount": 228498,
+     "occupation": "manager",
+     "purpose": "others",
+     "qualification": "Bs",
+     "term": "18m"
+}
+
+{
+     "age": 44,
+     "amount_of_property": 47103,
+     "id": 40,
+     "income": 84945,
+     "loan_amount": 292647,
+     "occupation": "engineer",
+     "purpose": "house",
+     "qualification": "Ms",
+     "term": "18m"
+}
+
+{
+     "age": 34,
+     "amount_of_property": 97727,
+     "id": 41,
+     "income": 65269,
+     "loan_amount": 88992,
+     "occupation": "engineer",
+     "purpose": "car",
+     "qualification": "Bs",
+     "term": "18m"
+}
+
+{
+     "age": 35,
+     "amount_of_property": 32193,
+     "id": 42,
+     "income": 98915,
+     "loan_amount": 238854,
+     "occupation": "engineer",
+     "purpose": "house",
+     "qualification": "Ms",
+     "term": "6m"
+}
+
+{
+     "age": 39,
+     "amount_of_property": 67533,
+     "id": 43,
+     "income": 63675,
+     "loan_amount": 275807,
+     "occupation": "others",
+     "purpose": "car",
+     "qualification": "Ms",
+     "term": "18m"
+}
+
+{
+     "age": 64,
+     "amount_of_property": 75345,
+     "id": 44,
+     "income": 69673,
+     "loan_amount": 124947,
+     "occupation": "others",
+     "purpose": "house",
+     "qualification": "Phd",
+     "term": "12m"
+}
+
+{
+     "age": 66,
+     "amount_of_property": 45138,
+     "id": 45,
+     "income": 68714,
+     "loan_amount": 96366,
+     "occupation": "engineer",
+     "purpose": "house",
+     "qualification": "Bs",
+     "term": "12m"
+}
+
+{
+     "age": 48,
+     "amount_of_property": 39133,
+     "id": 46,
+     "income": 69507,
+     "loan_amount": 389471,
+     "occupation": "others",
+     "purpose": "house",
+     "qualification": "Phd",
+     "term": "12m"
+}
+
+{
+     "age": 68,
+     "amount_of_property": 38270,
+     "id": 47,
+     "income": 62214,
+     "loan_amount": 87767,
+     "occupation": "engineer",
+     "purpose": "others",
+     "qualification": "Ms",
+     "term": "6m"
+}
+
+{
+     "age": 46,
+     "amount_of_property": 99884,
+     "id": 48,
+     "income": 67193,
+     "loan_amount": 388404,
+     "occupation": "manager",
+     "purpose": "others",
+     "qualification": "Phd",
+     "term": "6m"
+}
+
+{
+     "age": 27,
+     "amount_of_property": 51861,
+     "id": 49,
+     "income": 62650,
+     "loan_amount": 308964,
+     "occupation": "manager",
+     "purpose": "car",
+     "qualification": "Bs",
+     "term": "12m"
+}
+
+{
+     "age": 54,
+     "amount_of_property": 75028,
+     "id": 50,
+     "income": 60059,
+     "loan_amount": 158193,
+     "occupation": "manager",
+     "purpose": "others",
+     "qualification": "Ms",
+     "term": "12m"
+}
+
+{
+     "age": 50,
+     "amount_of_property": 83070,
+     "id": 51,
+     "income": 86845,
+     "loan_amount": 483576,
+     "occupation": "others",
+     "purpose": "others",
+     "qualification": "Ms",
+     "term": "12m"
+}
+
+{
+     "age": 34,
+     "amount_of_property": 41267,
+     "id": 52,
+     "income": 69259,
+     "loan_amount": 12148,
+     "occupation": "engineer",
+     "purpose": "others",
+     "qualification": "Bs",
+     "term": "18m"
+}
+
+{
+     "age": 25,
+     "amount_of_property": 34247,
+     "id": 53,
+     "income": 71603,
+     "loan_amount": 314180,
+     "occupation": "others",
+     "purpose": "car",
+     "qualification": "Phd",
+     "term": "6m"
+}
+
+{
+     "age": 47,
+     "amount_of_property": 48228,
+     "id": 54,
+     "income": 84041,
+     "loan_amount": 173828,
+     "occupation": "manager",
+     "purpose": "others",
+     "qualification": "Ms",
+     "term": "6m"
+}
+
+{
+     "age": 41,
+     "amount_of_property": 82635,
+     "id": 55,
+     "income": 74042,
+     "loan_amount": 369054,
+     "occupation": "manager",
+     "purpose": "house",
+     "qualification": "Phd",
+     "term": "18m"
+}
+
+{
+     "age": 50,
+     "amount_of_property": 39900,
+     "id": 56,
+     "income": 99044,
+     "loan_amount": 156855,
+     "occupation": "manager",
+     "purpose": "car",
+     "qualification": "Bs",
+     "term": "6m"
+}
+
+{
+     "age": 67,
+     "amount_of_property": 74405,
+     "id": 57,
+     "income": 72135,
+     "loan_amount": 231910,
+     "occupation": "engineer",
+     "purpose": "house",
+     "qualification": "Phd",
+     "term": "18m"
+}
+
+{
+     "age": 61,
+     "amount_of_property": 80579,
+     "id": 58,
+     "income": 72474,
+     "loan_amount": 326777,
+     "occupation": "others",
+     "purpose": "house",
+     "qualification": "Ms",
+     "term": "6m"
+}
+
+{
+     "age": 41,
+     "amount_of_property": 36953,
+     "id": 59,
+     "income": 76467,
+     "loan_amount": 458266,
+     "occupation": "engineer",
+     "purpose": "car",
+     "qualification": "Phd",
+     "term": "12m"
+}
+
+{
+     "age": 25,
+     "amount_of_property": 71992,
+     "id": 60,
+     "income": 55343,
+     "loan_amount": 439467,
+     "occupation": "manager",
+     "purpose": "others",
+     "qualification": "Phd",
+     "term": "6m"
+}
+
+{
+     "age": 61,
+     "amount_of_property": 68224,
+     "id": 61,
+     "income": 61835,
+     "loan_amount": 374443,
+     "occupation": "manager",
+     "purpose": "house",
+     "qualification": "Ms",
+     "term": "6m"
+}
+
+{
+     "age": 63,
+     "amount_of_property": 69675,
+     "id": 62,
+     "income": 57902,
+     "loan_amount": 55221,
+     "occupation": "manager",
+     "purpose": "house",
+     "qualification": "Ms",
+     "term": "12m"
+}
+
+{
+     "age": 38,
+     "amount_of_property": 47678,
+     "id": 63,
+     "income": 66475,
+     "loan_amount": 192103,
+     "occupation": "others",
+     "purpose": "car",
+     "qualification": "Bs",
+     "term": "18m"
+}
+
+{
+     "age": 69,
+     "amount_of_property": 64593,
+     "id": 64,
+     "income": 89443,
+     "loan_amount": 180440,
+     "occupation": "manager",
+     "purpose": "car",
+     "qualification": "Bs",
+     "term": "18m"
+}
+
+{
+     "age": 39,
+     "amount_of_property": 88466,
+     "id": 65,
+     "income": 79831,
+     "loan_amount": 100156,
+     "occupation": "engineer",
+     "purpose": "car",
+     "qualification": "Phd",
+     "term": "6m"
+}
+
+{
+     "age": 56,
+     "amount_of_property": 55896,
+     "id": 66,
+     "income": 76621,
+     "loan_amount": 143429,
+     "occupation": "engineer",
+     "purpose": "house",
+     "qualification": "Ms",
+     "term": "18m"
+}
+
+{
+     "age": 27,
+     "amount_of_property": 68940,
+     "id": 67,
+     "income": 77172,
+     "loan_amount": 416243,
+     "occupation": "engineer",
+     "purpose": "house",
+     "qualification": "Bs",
+     "term": "18m"
+}
+
+{
+     "age": 31,
+     "amount_of_property": 51998,
+     "id": 68,
+     "income": 83834,
+     "loan_amount": 453515,
+     "occupation": "others",
+     "purpose": "car",
+     "qualification": "Bs",
+     "term": "18m"
+}
+
+{
+     "age": 63,
+     "amount_of_property": 84481,
+     "id": 69,
+     "income": 77999,
+     "loan_amount": 132386,
+     "occupation": "manager",
+     "purpose": "others",
+     "qualification": "Ms",
+     "term": "6m"
+}
+
+{
+     "age": 69,
+     "amount_of_property": 43825,
+     "id": 70,
+     "income": 71352,
+     "loan_amount": 30784,
+     "occupation": "manager",
+     "purpose": "car",
+     "qualification": "Ms",
+     "term": "12m"
+}
+
+{
+     "age": 59,
+     "amount_of_property": 66855,
+     "id": 71,
+     "income": 97840,
+     "loan_amount": 344832,
+     "occupation": "engineer",
+     "purpose": "car",
+     "qualification": "Phd",
+     "term": "18m"
+}
+
+{
+     "age": 28,
+     "amount_of_property": 68479,
+     "id": 72,
+     "income": 56752,
+     "loan_amount": 216227,
+     "occupation": "manager",
+     "purpose": "others",
+     "qualification": "Bs",
+     "term": "6m"
+}
+
+{
+     "age": 35,
+     "amount_of_property": 73366,
+     "id": 73,
+     "income": 73592,
+     "loan_amount": 116042,
+     "occupation": "engineer",
+     "purpose": "car",
+     "qualification": "Phd",
+     "term": "18m"
+}
+
+{
+     "age": 39,
+     "amount_of_property": 90380,
+     "id": 74,
+     "income": 67379,
+     "loan_amount": 9955,
+     "occupation": "manager",
+     "purpose": "house",
+     "qualification": "Bs",
+     "term": "6m"
+}
+
+{
+     "age": 36,
+     "amount_of_property": 45296,
+     "id": 75,
+     "income": 68105,
+     "loan_amount": 198368,
+     "occupation": "manager",
+     "purpose": "car",
+     "qualification": "Bs",
+     "term": "6m"
+}
+
+{
+     "age": 43,
+     "amount_of_property": 43462,
+     "id": 76,
+     "income": 90877,
+     "loan_amount": 328149,
+     "occupation": "engineer",
+     "purpose": "others",
+     "qualification": "Ms",
+     "term": "12m"
+}
+
+{
+     "age": 44,
+     "amount_of_property": 70876,
+     "id": 77,
+     "income": 70565,
+     "loan_amount": 227211,
+     "occupation": "others",
+     "purpose": "car",
+     "qualification": "Bs",
+     "term": "12m"
+}
+
+{
+     "age": 63,
+     "amount_of_property": 83274,
+     "id": 78,
+     "income": 98845,
+     "loan_amount": 287876,
+     "occupation": "others",
+     "purpose": "others",
+     "qualification": "Phd",
+     "term": "12m"
+}
+
+{
+     "age": 50,
+     "amount_of_property": 47775,
+     "id": 79,
+     "income": 88253,
+     "loan_amount": 93782,
+     "occupation": "manager",
+     "purpose": "house",
+     "qualification": "Phd",
+     "term": "12m"
+}
+
+{
+     "age": 63,
+     "amount_of_property": 59329,
+     "id": 80,
+     "income": 72837,
+     "loan_amount": 175155,
+     "occupation": "engineer",
+     "purpose": "house",
+     "qualification": "Phd",
+     "term": "18m"
+}
+
+{
+     "age": 47,
+     "amount_of_property": 37193,
+     "id": 81,
+     "income": 92627,
+     "loan_amount": 292034,
+     "occupation": "engineer",
+     "purpose": "car",
+     "qualification": "Ms",
+     "term": "18m"
+}
+
+{
+     "age": 29,
+     "amount_of_property": 82892,
+     "id": 82,
+     "income": 97926,
+     "loan_amount": 271115,
+     "occupation": "engineer",
+     "purpose": "others",
+     "qualification": "Bs",
+     "term": "6m"
+}
+
+{
+     "age": 49,
+     "amount_of_property": 64452,
+     "id": 83,
+     "income": 68618,
+     "loan_amount": 483661,
+     "occupation": "manager",
+     "purpose": "others",
+     "qualification": "Bs",
+     "term": "18m"
+}
+
+{
+     "age": 49,
+     "amount_of_property": 95827,
+     "id": 84,
+     "income": 96024,
+     "loan_amount": 324284,
+     "occupation": "engineer",
+     "purpose": "house",
+     "qualification": "Phd",
+     "term": "18m"
+}
+
+{
+     "age": 58,
+     "amount_of_property": 95534,
+     "id": 85,
+     "income": 97998,
+     "loan_amount": 69790,
+     "occupation": "others",
+     "purpose": "others",
+     "qualification": "Bs",
+     "term": "6m"
+}
+
+{
+     "age": 68,
+     "amount_of_property": 62108,
+     "id": 86,
+     "income": 50028,
+     "loan_amount": 157750,
+     "occupation": "engineer",
+     "purpose": "others",
+     "qualification": "Phd",
+     "term": "12m"
+}
+
+{
+     "age": 42,
+     "amount_of_property": 47322,
+     "id": 87,
+     "income": 98778,
+     "loan_amount": 231531,
+     "occupation": "engineer",
+     "purpose": "others",
+     "qualification": "Bs",
+     "term": "6m"
+}
+
+{
+     "age": 31,
+     "amount_of_property": 35171,
+     "id": 88,
+     "income": 84298,
+     "loan_amount": 332986,
+     "occupation": "engineer",
+     "purpose": "house",
+     "qualification": "Phd",
+     "term": "18m"
+}
+
+{
+     "age": 27,
+     "amount_of_property": 58721,
+     "id": 89,
+     "income": 74221,
+     "loan_amount": 278086,
+     "occupation": "engineer",
+     "purpose": "car",
+     "qualification": "Phd",
+     "term": "12m"
+}
+
+{
+     "age": 40,
+     "amount_of_property": 92331,
+     "id": 90,
+     "income": 59339,
+     "loan_amount": 346961,
+     "occupation": "others",
+     "purpose": "car",
+     "qualification": "Phd",
+     "term": "12m"
+}
+
+{
+     "age": 51,
+     "amount_of_property": 96601,
+     "id": 91,
+     "income": 91165,
+     "loan_amount": 341712,
+     "occupation": "manager",
+     "purpose": "car",
+     "qualification": "Phd",
+     "term": "12m"
+}
+
+{
+     "age": 51,
+     "amount_of_property": 56196,
+     "id": 92,
+     "income": 53792,
+     "loan_amount": 285815,
+     "occupation": "others",
+     "purpose": "car",
+     "qualification": "Phd",
+     "term": "18m"
+}
+
+{
+     "age": 44,
+     "amount_of_property": 94664,
+     "id": 93,
+     "income": 87531,
+     "loan_amount": 70838,
+     "occupation": "engineer",
+     "purpose": "car",
+     "qualification": "Bs",
+     "term": "18m"
+}
+
+{
+     "age": 69,
+     "amount_of_property": 92059,
+     "id": 94,
+     "income": 85984,
+     "loan_amount": 267192,
+     "occupation": "others",
+     "purpose": "house",
+     "qualification": "Phd",
+     "term": "12m"
+}
+
+{
+     "age": 63,
+     "amount_of_property": 46826,
+     "id": 95,
+     "income": 85438,
+     "loan_amount": 159774,
+     "occupation": "manager",
+     "purpose": "car",
+     "qualification": "Ms",
+     "term": "6m"
+}
+
+{
+     "age": 57,
+     "amount_of_property": 30540,
+     "id": 96,
+     "income": 69897,
+     "loan_amount": 359184,
+     "occupation": "others",
+     "purpose": "others",
+     "qualification": "Phd",
+     "term": "18m"
+}
+
+{
+     "age": 32,
+     "amount_of_property": 77487,
+     "id": 97,
+     "income": 61560,
+     "loan_amount": 135755,
+     "occupation": "engineer",
+     "purpose": "others",
+     "qualification": "Bs",
+     "term": "12m"
+}
+
+{
+     "age": 68,
+     "amount_of_property": 62717,
+     "id": 98,
+     "income": 97620,
+     "loan_amount": 118679,
+     "occupation": "engineer",
+     "purpose": "others",
+     "qualification": "Ms",
+     "term": "12m"
+}
+
+{
+     "age": 51,
+     "amount_of_property": 63445,
+     "id": 99,
+     "income": 96662,
+     "loan_amount": 467379,
+     "occupation": "others",
+     "purpose": "house",
+     "qualification": "Phd",
+     "term": "18m"
+}
+

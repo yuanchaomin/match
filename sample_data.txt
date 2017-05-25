@@ -1,0 +1,2755 @@
+{
+     "expression_type": "and",
+     "id": 0,
+     "left_operand": {
+          "expression_type": "and",
+          "left_operand": {
+               "expression_type": "equals",
+               "left_operand": "purpose",
+               "right_operand": "others"
+          },
+          "right_operand": {
+               "expression_type": "or",
+               "left_operand": {
+                    "expression_type": "greater_than",
+                    "left_operand": "age",
+                    "right_operand": "30"
+               },
+               "right_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "qualification",
+                    "right_operand": "Ms"
+               }
+          }
+     },
+	
+     "right_operand": {
+          "expression_type": "greater_than",
+          "left_operand": "age",
+          "right_operand": "40"
+     }
+}
+
+{
+     "child": {
+          "child": {
+               "expression_type": "equals",
+               "left_operand": "loan_amount",
+               "right_operand": "5000"
+          },
+          "exoression_type": "not"
+     },
+     "exoression_type": "not",
+     "id": 1
+}
+
+{
+     "expression_type": "and",
+     "id": 2,
+     "left_operand": {
+          "expression_type": "or",
+          "left_operand": {
+               "child": {
+                    "expression_type": "equals",
+                    "left_operand": "purpose",
+                    "right_operand": "car"
+               },
+               "exoression_type": "not"
+          },
+          "right_operand": {
+               "expression_type": "equals",
+               "left_operand": "purpose",
+               "right_operand": "house"
+          }
+     },
+     "right_operand": {
+          "expression_type": "equals",
+          "left_operand": "income",
+          "right_operand": "50000"
+     }
+}
+
+{
+     "child": {
+          "expression_type": "less_than",
+          "left_operand": "age",
+          "right_operand": "40"
+     },
+     "exoression_type": "not",
+     "id": 3
+}
+
+{
+     "child": {
+          "expression_type": "or",
+          "left_operand": {
+               "child": {
+                    "expression_type": "less_than",
+                    "left_operand": "occupation",
+                    "right_operand": "manager"
+               },
+               "exoression_type": "not"
+          },
+          "right_operand": {
+               "expression_type": "equals",
+               "left_operand": "amount_of_property",
+               "right_operand": "50000"
+          }
+     },
+     "exoression_type": "not",
+     "id": 4
+}
+
+{
+     "expression_type": "and",
+     "id": 5,
+     "left_operand": {
+          "expression_type": "equals",
+          "left_operand": "amount_of_property",
+          "right_operand": "50000"
+     },
+     "right_operand": {
+          "expression_type": "or",
+          "left_operand": {
+               "expression_type": "greater_than",
+               "left_operand": "age",
+               "right_operand": "30"
+          },
+          "right_operand": {
+               "child": {
+                    "expression_type": "greater_than",
+                    "left_operand": "age",
+                    "right_operand": "30"
+               },
+               "exoression_type": "not"
+          }
+     }
+}
+
+{
+     "expression_type": "and",
+     "id": 6,
+     "left_operand": {
+          "child": {
+               "expression_type": "equals",
+               "left_operand": "qualification",
+               "right_operand": "Phd"
+          },
+          "exoression_type": "not"
+     },
+     "right_operand": {
+          "expression_type": "greater_than",
+          "left_operand": "qualification",
+          "right_operand": "Bs"
+     }
+}
+
+{
+     "child": {
+          "expression_type": "greater_than",
+          "left_operand": "loan_amount",
+          "right_operand": "10000"
+     },
+     "exoression_type": "not",
+     "id": 7
+}
+
+{
+     "child": {
+          "child": {
+               "expression_type": "or",
+               "left_operand": {
+                    "expression_type": "less_than",
+                    "left_operand": "term",
+                    "right_operand": "12m"
+               },
+               "right_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "purpose",
+                    "right_operand": "house"
+               }
+          },
+          "exoression_type": "not"
+     },
+     "exoression_type": "not",
+     "id": 8
+}
+
+{
+     "expression_type": "and",
+     "id": 9,
+     "left_operand": {
+          "expression_type": "equals",
+          "left_operand": "amount_of_property",
+          "right_operand": "50000"
+     },
+     "right_operand": {
+          "expression_type": "or",
+          "left_operand": {
+               "child": {
+                    "expression_type": "less_than",
+                    "left_operand": "income",
+                    "right_operand": "50000"
+               },
+               "exoression_type": "not"
+          },
+          "right_operand": {
+               "expression_type": "greater_than",
+               "left_operand": "amount_of_property",
+               "right_operand": "70000"
+          }
+     }
+}
+
+{
+     "child": {
+          "expression_type": "and",
+          "left_operand": {
+               "expression_type": "greater_than",
+               "left_operand": "income",
+               "right_operand": "70000"
+          },
+          "right_operand": {
+               "expression_type": "and",
+               "left_operand": {
+                    "expression_type": "less_than",
+                    "left_operand": "term",
+                    "right_operand": "12m"
+               },
+               "right_operand": {
+                    "expression_type": "greater_than",
+                    "left_operand": "qualification",
+                    "right_operand": "Ms"
+               }
+          }
+     },
+     "exoression_type": "not",
+     "id": 10
+}
+
+{
+     "child": {
+          "expression_type": "and",
+          "left_operand": {
+               "child": {
+                    "expression_type": "greater_than",
+                    "left_operand": "income",
+                    "right_operand": "60000"
+               },
+               "exoression_type": "not"
+          },
+          "right_operand": {
+               "expression_type": "greater_than",
+               "left_operand": "amount_of_property",
+               "right_operand": "70000"
+          }
+     },
+     "exoression_type": "not",
+     "id": 11
+}
+
+{
+     "expression_type": "and",
+     "id": 12,
+     "left_operand": {
+          "expression_type": "or",
+          "left_operand": {
+               "expression_type": "and",
+               "left_operand": {
+                    "expression_type": "greater_than",
+                    "left_operand": "term",
+                    "right_operand": "12m"
+               },
+               "right_operand": {
+                    "expression_type": "less_than",
+                    "left_operand": "loan_amount",
+                    "right_operand": "5000"
+               }
+          },
+          "right_operand": {
+               "expression_type": "greater_than",
+               "left_operand": "amount_of_property",
+               "right_operand": "60000"
+          }
+     },
+     "right_operand": {
+          "expression_type": "or",
+          "left_operand": {
+               "expression_type": "less_than",
+               "left_operand": "age",
+               "right_operand": "50"
+          },
+          "right_operand": {
+               "expression_type": "and",
+               "left_operand": {
+                    "expression_type": "less_than",
+                    "left_operand": "occupation",
+                    "right_operand": "engineer"
+               },
+               "right_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "term",
+                    "right_operand": "12m"
+               }
+          }
+     }
+}
+
+{
+     "child": {
+          "expression_type": "less_than",
+          "left_operand": "operation",
+          "right_operand": "equals"
+     },
+     "exoression_type": "not",
+     "id": 13
+}
+
+{
+     "child": {
+          "child": {
+               "expression_type": "and",
+               "left_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "occupation",
+                    "right_operand": "manager"
+               },
+               "right_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "purpose",
+                    "right_operand": "car"
+               }
+          },
+          "exoression_type": "not"
+     },
+     "exoression_type": "not",
+     "id": 14
+}
+
+{
+     "expression_type": "and",
+     "id": 15,
+     "left_operand": {
+          "expression_type": "greater_than",
+          "left_operand": "operation",
+          "right_operand": "equals"
+     },
+     "right_operand": {
+          "expression_type": "and",
+          "left_operand": {
+               "expression_type": "and",
+               "left_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "occupation",
+                    "right_operand": "engineer"
+               },
+               "right_operand": {
+                    "expression_type": "less_than",
+                    "left_operand": "age",
+                    "right_operand": "30"
+               }
+          },
+          "right_operand": {
+               "expression_type": "and",
+               "left_operand": {
+                    "expression_type": "greater_than",
+                    "left_operand": "occupation",
+                    "right_operand": "manager"
+               },
+               "right_operand": {
+                    "expression_type": "greater_than",
+                    "left_operand": "amount_of_property",
+                    "right_operand": "50000"
+               }
+          }
+     }
+}
+
+{
+     "child": {
+          "expression_type": "equals",
+          "left_operand": "income",
+          "right_operand": "60000"
+     },
+     "exoression_type": "not",
+     "id": 16
+}
+
+{
+     "expression_type": "and",
+     "id": 17,
+     "left_operand": {
+          "expression_type": "and",
+          "left_operand": {
+               "expression_type": "and",
+               "left_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "purpose",
+                    "right_operand": "house"
+               },
+               "right_operand": {
+                    "expression_type": "less_than",
+                    "left_operand": "loan_amount",
+                    "right_operand": "50000"
+               }
+          },
+          "right_operand": {
+               "expression_type": "or",
+               "left_operand": {
+                    "expression_type": "greater_than",
+                    "left_operand": "amount_of_property",
+                    "right_operand": "70000"
+               },
+               "right_operand": {
+                    "expression_type": "greater_than",
+                    "left_operand": "qualification",
+                    "right_operand": "Bs"
+               }
+          }
+     },
+     "right_operand": {
+          "expression_type": "equals",
+          "left_operand": "age",
+          "right_operand": "50"
+     }
+}
+
+{
+     "child": {
+          "child": {
+               "expression_type": "and",
+               "left_operand": {
+                    "expression_type": "greater_than",
+                    "left_operand": "age",
+                    "right_operand": "30"
+               },
+               "right_operand": {
+                    "expression_type": "less_than",
+                    "left_operand": "amount_of_property",
+                    "right_operand": "60000"
+               }
+          },
+          "exoression_type": "not"
+     },
+     "exoression_type": "not",
+     "id": 18
+}
+
+{
+     "expression_type": "and",
+     "id": 19,
+     "left_operand": {
+          "child": {
+               "child": {
+                    "expression_type": "less_than",
+                    "left_operand": "qualification",
+                    "right_operand": "Ms"
+               },
+               "exoression_type": "not"
+          },
+          "exoression_type": "not"
+     },
+     "right_operand": {
+          "child": {
+               "expression_type": "and",
+               "left_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "purpose",
+                    "right_operand": "others"
+               },
+               "right_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "occupation",
+                    "right_operand": "others"
+               }
+          },
+          "exoression_type": "not"
+     }
+}
+
+{
+     "expression_type": "and",
+     "id": 20,
+     "left_operand": {
+          "expression_type": "less_than",
+          "left_operand": "term",
+          "right_operand": "6m"
+     },
+     "right_operand": {
+          "expression_type": "or",
+          "left_operand": {
+               "expression_type": "greater_than",
+               "left_operand": "operation",
+               "right_operand": "greater_than"
+          },
+          "right_operand": {
+               "child": {
+                    "expression_type": "equals",
+                    "left_operand": "qualification",
+                    "right_operand": "Phd"
+               },
+               "exoression_type": "not"
+          }
+     }
+}
+
+{
+     "expression_type": "and",
+     "id": 21,
+     "left_operand": {
+          "expression_type": "greater_than",
+          "left_operand": "loan_amount",
+          "right_operand": "50000"
+     },
+     "right_operand": {
+          "expression_type": "or",
+          "left_operand": {
+               "child": {
+                    "expression_type": "greater_than",
+                    "left_operand": "loan_amount",
+                    "right_operand": "5000"
+               },
+               "exoression_type": "not"
+          },
+          "right_operand": {
+               "expression_type": "less_than",
+               "left_operand": "age",
+               "right_operand": "40"
+          }
+     }
+}
+
+{
+     "child": {
+          "expression_type": "or",
+          "left_operand": {
+               "expression_type": "greater_than",
+               "left_operand": "term",
+               "right_operand": "12m"
+          },
+          "right_operand": {
+               "expression_type": "and",
+               "left_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "purpose",
+                    "right_operand": "house"
+               },
+               "right_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "amount_of_property",
+                    "right_operand": "70000"
+               }
+          }
+     },
+     "exoression_type": "not",
+     "id": 22
+}
+
+{
+     "expression_type": "and",
+     "id": 23,
+     "left_operand": {
+          "expression_type": "equals",
+          "left_operand": "purpose",
+          "right_operand": "others"
+     },
+     "right_operand": {
+          "child": {
+               "expression_type": "and",
+               "left_operand": {
+                    "expression_type": "less_than",
+                    "left_operand": "age",
+                    "right_operand": "50"
+               },
+               "right_operand": {
+                    "expression_type": "less_than",
+                    "left_operand": "occupation",
+                    "right_operand": "manager"
+               }
+          },
+          "exoression_type": "not"
+     }
+}
+
+{
+     "child": {
+          "expression_type": "and",
+          "left_operand": {
+               "expression_type": "greater_than",
+               "left_operand": "age",
+               "right_operand": "40"
+          },
+          "right_operand": {
+               "expression_type": "or",
+               "left_operand": {
+                    "expression_type": "less_than",
+                    "left_operand": "age",
+                    "right_operand": "30"
+               },
+               "right_operand": {
+                    "expression_type": "greater_than",
+                    "left_operand": "operation",
+                    "right_operand": "less_than"
+               }
+          }
+     },
+     "exoression_type": "not",
+     "id": 24
+}
+
+{
+     "expression_type": "or",
+     "id": 25,
+     "left_operand": {
+          "child": {
+               "child": {
+                    "expression_type": "equals",
+                    "left_operand": "term",
+                    "right_operand": "12m"
+               },
+               "exoression_type": "not"
+          },
+          "exoression_type": "not"
+     },
+     "right_operand": {
+          "child": {
+               "expression_type": "equals",
+               "left_operand": "occupation",
+               "right_operand": "engineer"
+          },
+          "exoression_type": "not"
+     }
+}
+
+{
+     "expression_type": "and",
+     "id": 26,
+     "left_operand": {
+          "expression_type": "less_than",
+          "left_operand": "term",
+          "right_operand": "18m"
+     },
+     "right_operand": {
+          "expression_type": "or",
+          "left_operand": {
+               "expression_type": "less_than",
+               "left_operand": "income",
+               "right_operand": "70000"
+          },
+          "right_operand": {
+               "expression_type": "or",
+               "left_operand": {
+                    "expression_type": "greater_than",
+                    "left_operand": "occupation",
+                    "right_operand": "manager"
+               },
+               "right_operand": {
+                    "expression_type": "greater_than",
+                    "left_operand": "income",
+                    "right_operand": "50000"
+               }
+          }
+     }
+}
+
+{
+     "child": {
+          "expression_type": "less_than",
+          "left_operand": "amount_of_property",
+          "right_operand": "60000"
+     },
+     "exoression_type": "not",
+     "id": 27
+}
+
+{
+     "expression_type": "and",
+     "id": 28,
+     "left_operand": {
+          "expression_type": "greater_than",
+          "left_operand": "operation",
+          "right_operand": "equals"
+     },
+     "right_operand": {
+          "child": {
+               "expression_type": "or",
+               "left_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "purpose",
+                    "right_operand": "car"
+               },
+               "right_operand": {
+                    "expression_type": "less_than",
+                    "left_operand": "income",
+                    "right_operand": "50000"
+               }
+          },
+          "exoression_type": "not"
+     }
+}
+
+{
+     "expression_type": "and",
+     "id": 29,
+     "left_operand": {
+          "expression_type": "and",
+          "left_operand": {
+               "expression_type": "and",
+               "left_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "purpose",
+                    "right_operand": "car"
+               },
+               "right_operand": {
+                    "expression_type": "greater_than",
+                    "left_operand": "qualification",
+                    "right_operand": "Phd"
+               }
+          },
+          "right_operand": {
+               "child": {
+                    "expression_type": "equals",
+                    "left_operand": "occupation",
+                    "right_operand": "manager"
+               },
+               "exoression_type": "not"
+          }
+     },
+     "right_operand": {
+          "expression_type": "equals",
+          "left_operand": "loan_amount",
+          "right_operand": "5000"
+     }
+}
+
+{
+     "child": {
+          "expression_type": "and",
+          "left_operand": {
+               "expression_type": "and",
+               "left_operand": {
+                    "expression_type": "less_than",
+                    "left_operand": "occupation",
+                    "right_operand": "manager"
+               },
+               "right_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "operation",
+                    "right_operand": "equals"
+               }
+          },
+          "right_operand": {
+               "expression_type": "and",
+               "left_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "loan_amount",
+                    "right_operand": "50000"
+               },
+               "right_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "operation",
+                    "right_operand": "equals"
+               }
+          }
+     },
+     "exoression_type": "not",
+     "id": 30
+}
+
+{
+     "child": {
+          "child": {
+               "expression_type": "greater_than",
+               "left_operand": "age",
+               "right_operand": "50"
+          },
+          "exoression_type": "not"
+     },
+     "exoression_type": "not",
+     "id": 31
+}
+
+{
+     "expression_type": "or",
+     "id": 32,
+     "left_operand": {
+          "child": {
+               "expression_type": "or",
+               "left_operand": {
+                    "expression_type": "less_than",
+                    "left_operand": "term",
+                    "right_operand": "12m"
+               },
+               "right_operand": {
+                    "expression_type": "greater_than",
+                    "left_operand": "qualification",
+                    "right_operand": "Bs"
+               }
+          },
+          "exoression_type": "not"
+     },
+     "right_operand": {
+          "expression_type": "and",
+          "left_operand": {
+               "expression_type": "and",
+               "left_operand": {
+                    "expression_type": "less_than",
+                    "left_operand": "income",
+                    "right_operand": "60000"
+               },
+               "right_operand": {
+                    "expression_type": "greater_than",
+                    "left_operand": "age",
+                    "right_operand": "40"
+               }
+          },
+          "right_operand": {
+               "expression_type": "and",
+               "left_operand": {
+                    "expression_type": "greater_than",
+                    "left_operand": "term",
+                    "right_operand": "6m"
+               },
+               "right_operand": {
+                    "expression_type": "less_than",
+                    "left_operand": "age",
+                    "right_operand": "50"
+               }
+          }
+     }
+}
+
+{
+     "child": {
+          "expression_type": "equals",
+          "left_operand": "qualification",
+          "right_operand": "Bs"
+     },
+     "exoression_type": "not",
+     "id": 33
+}
+
+{
+     "expression_type": "or",
+     "id": 34,
+     "left_operand": {
+          "expression_type": "and",
+          "left_operand": {
+               "expression_type": "or",
+               "left_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "operation",
+                    "right_operand": "equals"
+               },
+               "right_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "occupation",
+                    "right_operand": "manager"
+               }
+          },
+          "right_operand": {
+               "expression_type": "and",
+               "left_operand": {
+                    "expression_type": "greater_than",
+                    "left_operand": "amount_of_property",
+                    "right_operand": "50000"
+               },
+               "right_operand": {
+                    "expression_type": "less_than",
+                    "left_operand": "operation",
+                    "right_operand": "equals"
+               }
+          }
+     },
+     "right_operand": {
+          "child": {
+               "child": {
+                    "expression_type": "greater_than",
+                    "left_operand": "qualification",
+                    "right_operand": "Bs"
+               },
+               "exoression_type": "not"
+          },
+          "exoression_type": "not"
+     }
+}
+
+{
+     "expression_type": "or",
+     "id": 35,
+     "left_operand": {
+          "child": {
+               "expression_type": "greater_than",
+               "left_operand": "occupation",
+               "right_operand": "manager"
+          },
+          "exoression_type": "not"
+     },
+     "right_operand": {
+          "expression_type": "greater_than",
+          "left_operand": "occupation",
+          "right_operand": "engineer"
+     }
+}
+
+{
+     "expression_type": "and",
+     "id": 36,
+     "left_operand": {
+          "expression_type": "less_than",
+          "left_operand": "term",
+          "right_operand": "18m"
+     },
+     "right_operand": {
+          "child": {
+               "child": {
+                    "expression_type": "equals",
+                    "left_operand": "operation",
+                    "right_operand": "greater_than"
+               },
+               "exoression_type": "not"
+          },
+          "exoression_type": "not"
+     }
+}
+
+{
+     "expression_type": "and",
+     "id": 37,
+     "left_operand": {
+          "expression_type": "equals",
+          "left_operand": "loan_amount",
+          "right_operand": "50000"
+     },
+     "right_operand": {
+          "expression_type": "and",
+          "left_operand": {
+               "expression_type": "and",
+               "left_operand": {
+                    "expression_type": "less_than",
+                    "left_operand": "occupation",
+                    "right_operand": "others"
+               },
+               "right_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "qualification",
+                    "right_operand": "Bs"
+               }
+          },
+          "right_operand": {
+               "expression_type": "equals",
+               "left_operand": "loan_amount",
+               "right_operand": "10000"
+          }
+     }
+}
+
+{
+     "child": {
+          "expression_type": "less_than",
+          "left_operand": "operation",
+          "right_operand": "equals"
+     },
+     "exoression_type": "not",
+     "id": 38
+}
+
+{
+     "expression_type": "or",
+     "id": 39,
+     "left_operand": {
+          "expression_type": "or",
+          "left_operand": {
+               "expression_type": "or",
+               "left_operand": {
+                    "expression_type": "greater_than",
+                    "left_operand": "qualification",
+                    "right_operand": "Ms"
+               },
+               "right_operand": {
+                    "expression_type": "greater_than",
+                    "left_operand": "age",
+                    "right_operand": "40"
+               }
+          },
+          "right_operand": {
+               "expression_type": "and",
+               "left_operand": {
+                    "expression_type": "less_than",
+                    "left_operand": "loan_amount",
+                    "right_operand": "50000"
+               },
+               "right_operand": {
+                    "expression_type": "less_than",
+                    "left_operand": "operation",
+                    "right_operand": "greater_than"
+               }
+          }
+     },
+     "right_operand": {
+          "expression_type": "or",
+          "left_operand": {
+               "expression_type": "or",
+               "left_operand": {
+                    "expression_type": "greater_than",
+                    "left_operand": "occupation",
+                    "right_operand": "manager"
+               },
+               "right_operand": {
+                    "expression_type": "less_than",
+                    "left_operand": "loan_amount",
+                    "right_operand": "50000"
+               }
+          },
+          "right_operand": {
+               "expression_type": "less_than",
+               "left_operand": "age",
+               "right_operand": "50"
+          }
+     }
+}
+
+{
+     "child": {
+          "child": {
+               "expression_type": "equals",
+               "left_operand": "amount_of_property",
+               "right_operand": "70000"
+          },
+          "exoression_type": "not"
+     },
+     "exoression_type": "not",
+     "id": 40
+}
+
+{
+     "expression_type": "and",
+     "id": 41,
+     "left_operand": {
+          "expression_type": "equals",
+          "left_operand": "term",
+          "right_operand": "18m"
+     },
+     "right_operand": {
+          "expression_type": "or",
+          "left_operand": {
+               "expression_type": "greater_than",
+               "left_operand": "qualification",
+               "right_operand": "Bs"
+          },
+          "right_operand": {
+               "expression_type": "or",
+               "left_operand": {
+                    "expression_type": "greater_than",
+                    "left_operand": "qualification",
+                    "right_operand": "Bs"
+               },
+               "right_operand": {
+                    "expression_type": "greater_than",
+                    "left_operand": "operation",
+                    "right_operand": "greater_than"
+               }
+          }
+     }
+}
+
+{
+     "child": {
+          "expression_type": "equals",
+          "left_operand": "qualification",
+          "right_operand": "Phd"
+     },
+     "exoression_type": "not",
+     "id": 42
+}
+
+{
+     "expression_type": "or",
+     "id": 43,
+     "left_operand": {
+          "expression_type": "or",
+          "left_operand": {
+               "expression_type": "or",
+               "left_operand": {
+                    "expression_type": "less_than",
+                    "left_operand": "operation",
+                    "right_operand": "equals"
+               },
+               "right_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "purpose",
+                    "right_operand": "car"
+               }
+          },
+          "right_operand": {
+               "child": {
+                    "expression_type": "equals",
+                    "left_operand": "loan_amount",
+                    "right_operand": "5000"
+               },
+               "exoression_type": "not"
+          }
+     },
+     "right_operand": {
+          "expression_type": "greater_than",
+          "left_operand": "occupation",
+          "right_operand": "others"
+     }
+}
+
+{
+     "expression_type": "or",
+     "id": 44,
+     "left_operand": {
+          "expression_type": "and",
+          "left_operand": {
+               "expression_type": "or",
+               "left_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "purpose",
+                    "right_operand": "house"
+               },
+               "right_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "income",
+                    "right_operand": "60000"
+               }
+          },
+          "right_operand": {
+               "expression_type": "and",
+               "left_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "age",
+                    "right_operand": "50"
+               },
+               "right_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "operation",
+                    "right_operand": "equals"
+               }
+          }
+     },
+     "right_operand": {
+          "expression_type": "or",
+          "left_operand": {
+               "expression_type": "equals",
+               "left_operand": "term",
+               "right_operand": "18m"
+          },
+          "right_operand": {
+               "expression_type": "or",
+               "left_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "purpose",
+                    "right_operand": "others"
+               },
+               "right_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "operation",
+                    "right_operand": "equals"
+               }
+          }
+     }
+}
+
+{
+     "expression_type": "and",
+     "id": 45,
+     "left_operand": {
+          "expression_type": "or",
+          "left_operand": {
+               "expression_type": "greater_than",
+               "left_operand": "occupation",
+               "right_operand": "others"
+          },
+          "right_operand": {
+               "expression_type": "and",
+               "left_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "loan_amount",
+                    "right_operand": "10000"
+               },
+               "right_operand": {
+                    "expression_type": "less_than",
+                    "left_operand": "age",
+                    "right_operand": "50"
+               }
+          }
+     },
+     "right_operand": {
+          "expression_type": "less_than",
+          "left_operand": "age",
+          "right_operand": "30"
+     }
+}
+
+{
+     "child": {
+          "expression_type": "or",
+          "left_operand": {
+               "expression_type": "or",
+               "left_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "qualification",
+                    "right_operand": "Phd"
+               },
+               "right_operand": {
+                    "expression_type": "greater_than",
+                    "left_operand": "term",
+                    "right_operand": "12m"
+               }
+          },
+          "right_operand": {
+               "expression_type": "greater_than",
+               "left_operand": "loan_amount",
+               "right_operand": "5000"
+          }
+     },
+     "exoression_type": "not",
+     "id": 46
+}
+
+{
+     "expression_type": "or",
+     "id": 47,
+     "left_operand": {
+          "child": {
+               "expression_type": "or",
+               "left_operand": {
+                    "expression_type": "greater_than",
+                    "left_operand": "operation",
+                    "right_operand": "greater_than"
+               },
+               "right_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "purpose",
+                    "right_operand": "car"
+               }
+          },
+          "exoression_type": "not"
+     },
+     "right_operand": {
+          "child": {
+               "expression_type": "or",
+               "left_operand": {
+                    "expression_type": "less_than",
+                    "left_operand": "loan_amount",
+                    "right_operand": "10000"
+               },
+               "right_operand": {
+                    "expression_type": "greater_than",
+                    "left_operand": "income",
+                    "right_operand": "70000"
+               }
+          },
+          "exoression_type": "not"
+     }
+}
+
+{
+     "expression_type": "and",
+     "id": 48,
+     "left_operand": {
+          "expression_type": "or",
+          "left_operand": {
+               "expression_type": "less_than",
+               "left_operand": "term",
+               "right_operand": "6m"
+          },
+          "right_operand": {
+               "expression_type": "and",
+               "left_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "purpose",
+                    "right_operand": "others"
+               },
+               "right_operand": {
+                    "expression_type": "greater_than",
+                    "left_operand": "term",
+                    "right_operand": "6m"
+               }
+          }
+     },
+     "right_operand": {
+          "child": {
+               "expression_type": "and",
+               "left_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "term",
+                    "right_operand": "18m"
+               },
+               "right_operand": {
+                    "expression_type": "less_than",
+                    "left_operand": "age",
+                    "right_operand": "40"
+               }
+          },
+          "exoression_type": "not"
+     }
+}
+
+{
+     "child": {
+          "expression_type": "less_than",
+          "left_operand": "amount_of_property",
+          "right_operand": "70000"
+     },
+     "exoression_type": "not",
+     "id": 49
+}
+
+{
+     "expression_type": "and",
+     "id": 50,
+     "left_operand": {
+          "expression_type": "equals",
+          "left_operand": "amount_of_property",
+          "right_operand": "70000"
+     },
+     "right_operand": {
+          "expression_type": "or",
+          "left_operand": {
+               "expression_type": "or",
+               "left_operand": {
+                    "expression_type": "less_than",
+                    "left_operand": "amount_of_property",
+                    "right_operand": "60000"
+               },
+               "right_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "operation",
+                    "right_operand": "equals"
+               }
+          },
+          "right_operand": {
+               "child": {
+                    "expression_type": "greater_than",
+                    "left_operand": "occupation",
+                    "right_operand": "manager"
+               },
+               "exoression_type": "not"
+          }
+     }
+}
+
+{
+     "expression_type": "or",
+     "id": 51,
+     "left_operand": {
+          "child": {
+               "child": {
+                    "expression_type": "equals",
+                    "left_operand": "purpose",
+                    "right_operand": "car"
+               },
+               "exoression_type": "not"
+          },
+          "exoression_type": "not"
+     },
+     "right_operand": {
+          "expression_type": "greater_than",
+          "left_operand": "occupation",
+          "right_operand": "engineer"
+     }
+}
+
+{
+     "expression_type": "or",
+     "id": 52,
+     "left_operand": {
+          "expression_type": "and",
+          "left_operand": {
+               "expression_type": "and",
+               "left_operand": {
+                    "expression_type": "greater_than",
+                    "left_operand": "income",
+                    "right_operand": "70000"
+               },
+               "right_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "qualification",
+                    "right_operand": "Ms"
+               }
+          },
+          "right_operand": {
+               "child": {
+                    "expression_type": "greater_than",
+                    "left_operand": "qualification",
+                    "right_operand": "Bs"
+               },
+               "exoression_type": "not"
+          }
+     },
+     "right_operand": {
+          "expression_type": "equals",
+          "left_operand": "income",
+          "right_operand": "60000"
+     }
+}
+
+{
+     "expression_type": "or",
+     "id": 53,
+     "left_operand": {
+          "child": {
+               "expression_type": "equals",
+               "left_operand": "purpose",
+               "right_operand": "others"
+          },
+          "exoression_type": "not"
+     },
+     "right_operand": {
+          "expression_type": "greater_than",
+          "left_operand": "operation",
+          "right_operand": "greater_than"
+     }
+}
+
+{
+     "expression_type": "or",
+     "id": 54,
+     "left_operand": {
+          "expression_type": "or",
+          "left_operand": {
+               "expression_type": "and",
+               "left_operand": {
+                    "expression_type": "greater_than",
+                    "left_operand": "operation",
+                    "right_operand": "equals"
+               },
+               "right_operand": {
+                    "expression_type": "greater_than",
+                    "left_operand": "occupation",
+                    "right_operand": "engineer"
+               }
+          },
+          "right_operand": {
+               "expression_type": "greater_than",
+               "left_operand": "occupation",
+               "right_operand": "engineer"
+          }
+     },
+     "right_operand": {
+          "expression_type": "and",
+          "left_operand": {
+               "expression_type": "or",
+               "left_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "term",
+                    "right_operand": "18m"
+               },
+               "right_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "age",
+                    "right_operand": "50"
+               }
+          },
+          "right_operand": {
+               "child": {
+                    "expression_type": "less_than",
+                    "left_operand": "amount_of_property",
+                    "right_operand": "60000"
+               },
+               "exoression_type": "not"
+          }
+     }
+}
+
+{
+     "expression_type": "and",
+     "id": 55,
+     "left_operand": {
+          "expression_type": "and",
+          "left_operand": {
+               "expression_type": "less_than",
+               "left_operand": "age",
+               "right_operand": "50"
+          },
+          "right_operand": {
+               "expression_type": "or",
+               "left_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "amount_of_property",
+                    "right_operand": "70000"
+               },
+               "right_operand": {
+                    "expression_type": "greater_than",
+                    "left_operand": "occupation",
+                    "right_operand": "manager"
+               }
+          }
+     },
+     "right_operand": {
+          "expression_type": "or",
+          "left_operand": {
+               "expression_type": "greater_than",
+               "left_operand": "term",
+               "right_operand": "6m"
+          },
+          "right_operand": {
+               "child": {
+                    "expression_type": "greater_than",
+                    "left_operand": "operation",
+                    "right_operand": "equals"
+               },
+               "exoression_type": "not"
+          }
+     }
+}
+
+{
+     "expression_type": "and",
+     "id": 56,
+     "left_operand": {
+          "expression_type": "and",
+          "left_operand": {
+               "child": {
+                    "expression_type": "less_than",
+                    "left_operand": "income",
+                    "right_operand": "50000"
+               },
+               "exoression_type": "not"
+          },
+          "right_operand": {
+               "expression_type": "less_than",
+               "left_operand": "amount_of_property",
+               "right_operand": "50000"
+          }
+     },
+     "right_operand": {
+          "expression_type": "less_than",
+          "left_operand": "operation",
+          "right_operand": "equals"
+     }
+}
+
+{
+     "expression_type": "or",
+     "id": 57,
+     "left_operand": {
+          "expression_type": "and",
+          "left_operand": {
+               "expression_type": "equals",
+               "left_operand": "qualification",
+               "right_operand": "Ms"
+          },
+          "right_operand": {
+               "child": {
+                    "expression_type": "equals",
+                    "left_operand": "loan_amount",
+                    "right_operand": "10000"
+               },
+               "exoression_type": "not"
+          }
+     },
+     "right_operand": {
+          "expression_type": "equals",
+          "left_operand": "qualification",
+          "right_operand": "Phd"
+     }
+}
+
+{
+     "expression_type": "and",
+     "id": 58,
+     "left_operand": {
+          "expression_type": "or",
+          "left_operand": {
+               "expression_type": "equals",
+               "left_operand": "amount_of_property",
+               "right_operand": "70000"
+          },
+          "right_operand": {
+               "expression_type": "and",
+               "left_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "purpose",
+                    "right_operand": "car"
+               },
+               "right_operand": {
+                    "expression_type": "greater_than",
+                    "left_operand": "occupation",
+                    "right_operand": "manager"
+               }
+          }
+     },
+     "right_operand": {
+          "expression_type": "less_than",
+          "left_operand": "term",
+          "right_operand": "18m"
+     }
+}
+
+{
+     "expression_type": "and",
+     "id": 59,
+     "left_operand": {
+          "expression_type": "equals",
+          "left_operand": "occupation",
+          "right_operand": "manager"
+     },
+     "right_operand": {
+          "expression_type": "and",
+          "left_operand": {
+               "expression_type": "greater_than",
+               "left_operand": "term",
+               "right_operand": "12m"
+          },
+          "right_operand": {
+               "expression_type": "or",
+               "left_operand": {
+                    "expression_type": "less_than",
+                    "left_operand": "loan_amount",
+                    "right_operand": "10000"
+               },
+               "right_operand": {
+                    "expression_type": "less_than",
+                    "left_operand": "amount_of_property",
+                    "right_operand": "50000"
+               }
+          }
+     }
+}
+
+{
+     "expression_type": "and",
+     "id": 60,
+     "left_operand": {
+          "expression_type": "and",
+          "left_operand": {
+               "expression_type": "and",
+               "left_operand": {
+                    "expression_type": "less_than",
+                    "left_operand": "amount_of_property",
+                    "right_operand": "70000"
+               },
+               "right_operand": {
+                    "expression_type": "less_than",
+                    "left_operand": "loan_amount",
+                    "right_operand": "10000"
+               }
+          },
+          "right_operand": {
+               "expression_type": "or",
+               "left_operand": {
+                    "expression_type": "greater_than",
+                    "left_operand": "term",
+                    "right_operand": "18m"
+               },
+               "right_operand": {
+                    "expression_type": "less_than",
+                    "left_operand": "amount_of_property",
+                    "right_operand": "70000"
+               }
+          }
+     },
+     "right_operand": {
+          "expression_type": "less_than",
+          "left_operand": "loan_amount",
+          "right_operand": "5000"
+     }
+}
+
+{
+     "expression_type": "or",
+     "id": 61,
+     "left_operand": {
+          "expression_type": "or",
+          "left_operand": {
+               "expression_type": "greater_than",
+               "left_operand": "loan_amount",
+               "right_operand": "10000"
+          },
+          "right_operand": {
+               "child": {
+                    "expression_type": "greater_than",
+                    "left_operand": "qualification",
+                    "right_operand": "Ms"
+               },
+               "exoression_type": "not"
+          }
+     },
+     "right_operand": {
+          "expression_type": "or",
+          "left_operand": {
+               "child": {
+                    "expression_type": "equals",
+                    "left_operand": "income",
+                    "right_operand": "60000"
+               },
+               "exoression_type": "not"
+          },
+          "right_operand": {
+               "child": {
+                    "expression_type": "less_than",
+                    "left_operand": "age",
+                    "right_operand": "30"
+               },
+               "exoression_type": "not"
+          }
+     }
+}
+
+{
+     "expression_type": "or",
+     "id": 62,
+     "left_operand": {
+          "expression_type": "equals",
+          "left_operand": "amount_of_property",
+          "right_operand": "70000"
+     },
+     "right_operand": {
+          "expression_type": "and",
+          "left_operand": {
+               "expression_type": "or",
+               "left_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "occupation",
+                    "right_operand": "engineer"
+               },
+               "right_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "income",
+                    "right_operand": "50000"
+               }
+          },
+          "right_operand": {
+               "expression_type": "greater_than",
+               "left_operand": "term",
+               "right_operand": "6m"
+          }
+     }
+}
+
+{
+     "expression_type": "or",
+     "id": 63,
+     "left_operand": {
+          "expression_type": "greater_than",
+          "left_operand": "qualification",
+          "right_operand": "Bs"
+     },
+     "right_operand": {
+          "child": {
+               "expression_type": "equals",
+               "left_operand": "age",
+               "right_operand": "50"
+          },
+          "exoression_type": "not"
+     }
+}
+
+{
+     "expression_type": "and",
+     "id": 64,
+     "left_operand": {
+          "expression_type": "or",
+          "left_operand": {
+               "expression_type": "and",
+               "left_operand": {
+                    "expression_type": "less_than",
+                    "left_operand": "age",
+                    "right_operand": "50"
+               },
+               "right_operand": {
+                    "expression_type": "less_than",
+                    "left_operand": "term",
+                    "right_operand": "12m"
+               }
+          },
+          "right_operand": {
+               "expression_type": "greater_than",
+               "left_operand": "loan_amount",
+               "right_operand": "50000"
+          }
+     },
+     "right_operand": {
+          "child": {
+               "expression_type": "less_than",
+               "left_operand": "age",
+               "right_operand": "30"
+          },
+          "exoression_type": "not"
+     }
+}
+
+{
+     "expression_type": "or",
+     "id": 65,
+     "left_operand": {
+          "child": {
+               "child": {
+                    "expression_type": "less_than",
+                    "left_operand": "income",
+                    "right_operand": "50000"
+               },
+               "exoression_type": "not"
+          },
+          "exoression_type": "not"
+     },
+     "right_operand": {
+          "expression_type": "greater_than",
+          "left_operand": "qualification",
+          "right_operand": "Phd"
+     }
+}
+
+{
+     "child": {
+          "expression_type": "greater_than",
+          "left_operand": "loan_amount",
+          "right_operand": "5000"
+     },
+     "exoression_type": "not",
+     "id": 66
+}
+
+{
+     "expression_type": "and",
+     "id": 67,
+     "left_operand": {
+          "expression_type": "or",
+          "left_operand": {
+               "expression_type": "or",
+               "left_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "age",
+                    "right_operand": "30"
+               },
+               "right_operand": {
+                    "expression_type": "less_than",
+                    "left_operand": "age",
+                    "right_operand": "30"
+               }
+          },
+          "right_operand": {
+               "child": {
+                    "expression_type": "equals",
+                    "left_operand": "purpose",
+                    "right_operand": "others"
+               },
+               "exoression_type": "not"
+          }
+     },
+     "right_operand": {
+          "expression_type": "equals",
+          "left_operand": "purpose",
+          "right_operand": "house"
+     }
+}
+
+{
+     "expression_type": "or",
+     "id": 68,
+     "left_operand": {
+          "child": {
+               "expression_type": "equals",
+               "left_operand": "occupation",
+               "right_operand": "engineer"
+          },
+          "exoression_type": "not"
+     },
+     "right_operand": {
+          "expression_type": "less_than",
+          "left_operand": "operation",
+          "right_operand": "less_than"
+     }
+}
+
+{
+     "expression_type": "and",
+     "id": 69,
+     "left_operand": {
+          "child": {
+               "expression_type": "equals",
+               "left_operand": "income",
+               "right_operand": "50000"
+          },
+          "exoression_type": "not"
+     },
+     "right_operand": {
+          "expression_type": "and",
+          "left_operand": {
+               "expression_type": "equals",
+               "left_operand": "qualification",
+               "right_operand": "Phd"
+          },
+          "right_operand": {
+               "expression_type": "and",
+               "left_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "purpose",
+                    "right_operand": "others"
+               },
+               "right_operand": {
+                    "expression_type": "less_than",
+                    "left_operand": "operation",
+                    "right_operand": "greater_than"
+               }
+          }
+     }
+}
+
+{
+     "child": {
+          "expression_type": "less_than",
+          "left_operand": "qualification",
+          "right_operand": "Bs"
+     },
+     "exoression_type": "not",
+     "id": 70
+}
+
+{
+     "expression_type": "or",
+     "id": 71,
+     "left_operand": {
+          "expression_type": "less_than",
+          "left_operand": "operation",
+          "right_operand": "less_than"
+     },
+     "right_operand": {
+          "expression_type": "and",
+          "left_operand": {
+               "expression_type": "less_than",
+               "left_operand": "loan_amount",
+               "right_operand": "50000"
+          },
+          "right_operand": {
+               "expression_type": "or",
+               "left_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "purpose",
+                    "right_operand": "others"
+               },
+               "right_operand": {
+                    "expression_type": "greater_than",
+                    "left_operand": "age",
+                    "right_operand": "40"
+               }
+          }
+     }
+}
+
+{
+     "expression_type": "or",
+     "id": 72,
+     "left_operand": {
+          "expression_type": "and",
+          "left_operand": {
+               "child": {
+                    "expression_type": "equals",
+                    "left_operand": "purpose",
+                    "right_operand": "house"
+               },
+               "exoression_type": "not"
+          },
+          "right_operand": {
+               "expression_type": "equals",
+               "left_operand": "purpose",
+               "right_operand": "car"
+          }
+     },
+     "right_operand": {
+          "expression_type": "and",
+          "left_operand": {
+               "expression_type": "and",
+               "left_operand": {
+                    "expression_type": "less_than",
+                    "left_operand": "occupation",
+                    "right_operand": "engineer"
+               },
+               "right_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "purpose",
+                    "right_operand": "house"
+               }
+          },
+          "right_operand": {
+               "expression_type": "equals",
+               "left_operand": "purpose",
+               "right_operand": "car"
+          }
+     }
+}
+
+{
+     "expression_type": "and",
+     "id": 73,
+     "left_operand": {
+          "expression_type": "equals",
+          "left_operand": "purpose",
+          "right_operand": "car"
+     },
+     "right_operand": {
+          "child": {
+               "child": {
+                    "expression_type": "equals",
+                    "left_operand": "qualification",
+                    "right_operand": "Phd"
+               },
+               "exoression_type": "not"
+          },
+          "exoression_type": "not"
+     }
+}
+
+{
+     "child": {
+          "child": {
+               "expression_type": "equals",
+               "left_operand": "term",
+               "right_operand": "12m"
+          },
+          "exoression_type": "not"
+     },
+     "exoression_type": "not",
+     "id": 74
+}
+
+{
+     "child": {
+          "expression_type": "and",
+          "left_operand": {
+               "expression_type": "less_than",
+               "left_operand": "age",
+               "right_operand": "40"
+          },
+          "right_operand": {
+               "expression_type": "or",
+               "left_operand": {
+                    "expression_type": "less_than",
+                    "left_operand": "operation",
+                    "right_operand": "greater_than"
+               },
+               "right_operand": {
+                    "expression_type": "greater_than",
+                    "left_operand": "amount_of_property",
+                    "right_operand": "70000"
+               }
+          }
+     },
+     "exoression_type": "not",
+     "id": 75
+}
+
+{
+     "child": {
+          "expression_type": "or",
+          "left_operand": {
+               "expression_type": "greater_than",
+               "left_operand": "operation",
+               "right_operand": "greater_than"
+          },
+          "right_operand": {
+               "child": {
+                    "expression_type": "equals",
+                    "left_operand": "purpose",
+                    "right_operand": "car"
+               },
+               "exoression_type": "not"
+          }
+     },
+     "exoression_type": "not",
+     "id": 76
+}
+
+{
+     "child": {
+          "expression_type": "or",
+          "left_operand": {
+               "expression_type": "or",
+               "left_operand": {
+                    "expression_type": "less_than",
+                    "left_operand": "loan_amount",
+                    "right_operand": "5000"
+               },
+               "right_operand": {
+                    "expression_type": "less_than",
+                    "left_operand": "occupation",
+                    "right_operand": "others"
+               }
+          },
+          "right_operand": {
+               "expression_type": "or",
+               "left_operand": {
+                    "expression_type": "greater_than",
+                    "left_operand": "loan_amount",
+                    "right_operand": "10000"
+               },
+               "right_operand": {
+                    "expression_type": "greater_than",
+                    "left_operand": "age",
+                    "right_operand": "50"
+               }
+          }
+     },
+     "exoression_type": "not",
+     "id": 77
+}
+
+{
+     "expression_type": "or",
+     "id": 78,
+     "left_operand": {
+          "expression_type": "or",
+          "left_operand": {
+               "expression_type": "and",
+               "left_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "purpose",
+                    "right_operand": "others"
+               },
+               "right_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "qualification",
+                    "right_operand": "Ms"
+               }
+          },
+          "right_operand": {
+               "expression_type": "and",
+               "left_operand": {
+                    "expression_type": "less_than",
+                    "left_operand": "income",
+                    "right_operand": "50000"
+               },
+               "right_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "operation",
+                    "right_operand": "less_than"
+               }
+          }
+     },
+     "right_operand": {
+          "child": {
+               "expression_type": "equals",
+               "left_operand": "income",
+               "right_operand": "60000"
+          },
+          "exoression_type": "not"
+     }
+}
+
+{
+     "expression_type": "or",
+     "id": 79,
+     "left_operand": {
+          "expression_type": "equals",
+          "left_operand": "loan_amount",
+          "right_operand": "5000"
+     },
+     "right_operand": {
+          "expression_type": "and",
+          "left_operand": {
+               "expression_type": "or",
+               "left_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "qualification",
+                    "right_operand": "Bs"
+               },
+               "right_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "loan_amount",
+                    "right_operand": "10000"
+               }
+          },
+          "right_operand": {
+               "expression_type": "greater_than",
+               "left_operand": "operation",
+               "right_operand": "equals"
+          }
+     }
+}
+
+{
+     "expression_type": "and",
+     "id": 80,
+     "left_operand": {
+          "expression_type": "and",
+          "left_operand": {
+               "expression_type": "and",
+               "left_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "term",
+                    "right_operand": "12m"
+               },
+               "right_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "purpose",
+                    "right_operand": "car"
+               }
+          },
+          "right_operand": {
+               "expression_type": "equals",
+               "left_operand": "purpose",
+               "right_operand": "house"
+          }
+     },
+     "right_operand": {
+          "expression_type": "equals",
+          "left_operand": "loan_amount",
+          "right_operand": "50000"
+     }
+}
+
+{
+     "expression_type": "and",
+     "id": 81,
+     "left_operand": {
+          "expression_type": "or",
+          "left_operand": {
+               "expression_type": "or",
+               "left_operand": {
+                    "expression_type": "greater_than",
+                    "left_operand": "amount_of_property",
+                    "right_operand": "70000"
+               },
+               "right_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "qualification",
+                    "right_operand": "Phd"
+               }
+          },
+          "right_operand": {
+               "expression_type": "equals",
+               "left_operand": "loan_amount",
+               "right_operand": "10000"
+          }
+     },
+     "right_operand": {
+          "child": {
+               "expression_type": "equals",
+               "left_operand": "loan_amount",
+               "right_operand": "5000"
+          },
+          "exoression_type": "not"
+     }
+}
+
+{
+     "expression_type": "or",
+     "id": 82,
+     "left_operand": {
+          "expression_type": "or",
+          "left_operand": {
+               "expression_type": "less_than",
+               "left_operand": "loan_amount",
+               "right_operand": "50000"
+          },
+          "right_operand": {
+               "expression_type": "and",
+               "left_operand": {
+                    "expression_type": "greater_than",
+                    "left_operand": "term",
+                    "right_operand": "12m"
+               },
+               "right_operand": {
+                    "expression_type": "less_than",
+                    "left_operand": "occupation",
+                    "right_operand": "manager"
+               }
+          }
+     },
+     "right_operand": {
+          "expression_type": "and",
+          "left_operand": {
+               "expression_type": "and",
+               "left_operand": {
+                    "expression_type": "less_than",
+                    "left_operand": "loan_amount",
+                    "right_operand": "5000"
+               },
+               "right_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "term",
+                    "right_operand": "18m"
+               }
+          },
+          "right_operand": {
+               "expression_type": "equals",
+               "left_operand": "purpose",
+               "right_operand": "car"
+          }
+     }
+}
+
+{
+     "expression_type": "and",
+     "id": 83,
+     "left_operand": {
+          "child": {
+               "expression_type": "less_than",
+               "left_operand": "operation",
+               "right_operand": "equals"
+          },
+          "exoression_type": "not"
+     },
+     "right_operand": {
+          "expression_type": "and",
+          "left_operand": {
+               "expression_type": "equals",
+               "left_operand": "purpose",
+               "right_operand": "others"
+          },
+          "right_operand": {
+               "expression_type": "and",
+               "left_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "operation",
+                    "right_operand": "less_than"
+               },
+               "right_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "operation",
+                    "right_operand": "greater_than"
+               }
+          }
+     }
+}
+
+{
+     "expression_type": "and",
+     "id": 84,
+     "left_operand": {
+          "expression_type": "and",
+          "left_operand": {
+               "expression_type": "greater_than",
+               "left_operand": "occupation",
+               "right_operand": "manager"
+          },
+          "right_operand": {
+               "child": {
+                    "expression_type": "greater_than",
+                    "left_operand": "term",
+                    "right_operand": "18m"
+               },
+               "exoression_type": "not"
+          }
+     },
+     "right_operand": {
+          "expression_type": "equals",
+          "left_operand": "purpose",
+          "right_operand": "car"
+     }
+}
+
+{
+     "expression_type": "or",
+     "id": 85,
+     "left_operand": {
+          "expression_type": "equals",
+          "left_operand": "term",
+          "right_operand": "6m"
+     },
+     "right_operand": {
+          "expression_type": "or",
+          "left_operand": {
+               "expression_type": "or",
+               "left_operand": {
+                    "expression_type": "greater_than",
+                    "left_operand": "age",
+                    "right_operand": "50"
+               },
+               "right_operand": {
+                    "expression_type": "less_than",
+                    "left_operand": "occupation",
+                    "right_operand": "engineer"
+               }
+          },
+          "right_operand": {
+               "expression_type": "greater_than",
+               "left_operand": "income",
+               "right_operand": "50000"
+          }
+     }
+}
+
+{
+     "expression_type": "and",
+     "id": 86,
+     "left_operand": {
+          "expression_type": "greater_than",
+          "left_operand": "loan_amount",
+          "right_operand": "50000"
+     },
+     "right_operand": {
+          "expression_type": "and",
+          "left_operand": {
+               "expression_type": "equals",
+               "left_operand": "amount_of_property",
+               "right_operand": "50000"
+          },
+          "right_operand": {
+               "expression_type": "and",
+               "left_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "purpose",
+                    "right_operand": "house"
+               },
+               "right_operand": {
+                    "expression_type": "less_than",
+                    "left_operand": "loan_amount",
+                    "right_operand": "10000"
+               }
+          }
+     }
+}
+
+{
+     "expression_type": "or",
+     "id": 87,
+     "left_operand": {
+          "expression_type": "or",
+          "left_operand": {
+               "expression_type": "and",
+               "left_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "qualification",
+                    "right_operand": "Ms"
+               },
+               "right_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "income",
+                    "right_operand": "60000"
+               }
+          },
+          "right_operand": {
+               "expression_type": "and",
+               "left_operand": {
+                    "expression_type": "greater_than",
+                    "left_operand": "qualification",
+                    "right_operand": "Bs"
+               },
+               "right_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "purpose",
+                    "right_operand": "house"
+               }
+          }
+     },
+     "right_operand": {
+          "expression_type": "equals",
+          "left_operand": "qualification",
+          "right_operand": "Ms"
+     }
+}
+
+{
+     "child": {
+          "expression_type": "greater_than",
+          "left_operand": "amount_of_property",
+          "right_operand": "70000"
+     },
+     "exoression_type": "not",
+     "id": 88
+}
+
+{
+     "child": {
+          "expression_type": "equals",
+          "left_operand": "loan_amount",
+          "right_operand": "10000"
+     },
+     "exoression_type": "not",
+     "id": 89
+}
+
+{
+     "child": {
+          "expression_type": "and",
+          "left_operand": {
+               "child": {
+                    "expression_type": "greater_than",
+                    "left_operand": "age",
+                    "right_operand": "30"
+               },
+               "exoression_type": "not"
+          },
+          "right_operand": {
+               "expression_type": "equals",
+               "left_operand": "amount_of_property",
+               "right_operand": "50000"
+          }
+     },
+     "exoression_type": "not",
+     "id": 90
+}
+
+{
+     "expression_type": "and",
+     "id": 91,
+     "left_operand": {
+          "expression_type": "or",
+          "left_operand": {
+               "expression_type": "and",
+               "left_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "qualification",
+                    "right_operand": "Phd"
+               },
+               "right_operand": {
+                    "expression_type": "greater_than",
+                    "left_operand": "qualification",
+                    "right_operand": "Ms"
+               }
+          },
+          "right_operand": {
+               "child": {
+                    "expression_type": "greater_than",
+                    "left_operand": "qualification",
+                    "right_operand": "Ms"
+               },
+               "exoression_type": "not"
+          }
+     },
+     "right_operand": {
+          "expression_type": "greater_than",
+          "left_operand": "term",
+          "right_operand": "12m"
+     }
+}
+
+{
+     "expression_type": "or",
+     "id": 92,
+     "left_operand": {
+          "expression_type": "and",
+          "left_operand": {
+               "expression_type": "greater_than",
+               "left_operand": "age",
+               "right_operand": "30"
+          },
+          "right_operand": {
+               "expression_type": "and",
+               "left_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "qualification",
+                    "right_operand": "Bs"
+               },
+               "right_operand": {
+                    "expression_type": "less_than",
+                    "left_operand": "operation",
+                    "right_operand": "equals"
+               }
+          }
+     },
+     "right_operand": {
+          "expression_type": "greater_than",
+          "left_operand": "occupation",
+          "right_operand": "engineer"
+     }
+}
+
+{
+     "expression_type": "or",
+     "id": 93,
+     "left_operand": {
+          "expression_type": "and",
+          "left_operand": {
+               "expression_type": "or",
+               "left_operand": {
+                    "expression_type": "greater_than",
+                    "left_operand": "loan_amount",
+                    "right_operand": "50000"
+               },
+               "right_operand": {
+                    "expression_type": "greater_than",
+                    "left_operand": "term",
+                    "right_operand": "12m"
+               }
+          },
+          "right_operand": {
+               "expression_type": "and",
+               "left_operand": {
+                    "expression_type": "greater_than",
+                    "left_operand": "occupation",
+                    "right_operand": "others"
+               },
+               "right_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "occupation",
+                    "right_operand": "others"
+               }
+          }
+     },
+     "right_operand": {
+          "expression_type": "or",
+          "left_operand": {
+               "child": {
+                    "expression_type": "greater_than",
+                    "left_operand": "operation",
+                    "right_operand": "greater_than"
+               },
+               "exoression_type": "not"
+          },
+          "right_operand": {
+               "expression_type": "equals",
+               "left_operand": "purpose",
+               "right_operand": "house"
+          }
+     }
+}
+
+{
+     "expression_type": "or",
+     "id": 94,
+     "left_operand": {
+          "expression_type": "equals",
+          "left_operand": "purpose",
+          "right_operand": "car"
+     },
+     "right_operand": {
+          "expression_type": "or",
+          "left_operand": {
+               "child": {
+                    "expression_type": "greater_than",
+                    "left_operand": "income",
+                    "right_operand": "70000"
+               },
+               "exoression_type": "not"
+          },
+          "right_operand": {
+               "expression_type": "and",
+               "left_operand": {
+                    "expression_type": "greater_than",
+                    "left_operand": "operation",
+                    "right_operand": "equals"
+               },
+               "right_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "purpose",
+                    "right_operand": "house"
+               }
+          }
+     }
+}
+
+{
+     "expression_type": "or",
+     "id": 95,
+     "left_operand": {
+          "expression_type": "and",
+          "left_operand": {
+               "expression_type": "or",
+               "left_operand": {
+                    "expression_type": "less_than",
+                    "left_operand": "income",
+                    "right_operand": "50000"
+               },
+               "right_operand": {
+                    "expression_type": "less_than",
+                    "left_operand": "operation",
+                    "right_operand": "equals"
+               }
+          },
+          "right_operand": {
+               "expression_type": "equals",
+               "left_operand": "age",
+               "right_operand": "50"
+          }
+     },
+     "right_operand": {
+          "expression_type": "greater_than",
+          "left_operand": "income",
+          "right_operand": "60000"
+     }
+}
+
+{
+     "expression_type": "or",
+     "id": 96,
+     "left_operand": {
+          "expression_type": "or",
+          "left_operand": {
+               "expression_type": "and",
+               "left_operand": {
+                    "expression_type": "less_than",
+                    "left_operand": "amount_of_property",
+                    "right_operand": "50000"
+               },
+               "right_operand": {
+                    "expression_type": "less_than",
+                    "left_operand": "income",
+                    "right_operand": "50000"
+               }
+          },
+          "right_operand": {
+               "expression_type": "or",
+               "left_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "operation",
+                    "right_operand": "equals"
+               },
+               "right_operand": {
+                    "expression_type": "equals",
+                    "left_operand": "age",
+                    "right_operand": "40"
+               }
+          }
+     },
+     "right_operand": {
+          "expression_type": "equals",
+          "left_operand": "occupation",
+          "right_operand": "others"
+     }
+}
+
+{
+     "expression_type": "and",
+     "id": 97,
+     "left_operand": {
+          "expression_type": "less_than",
+          "left_operand": "age",
+          "right_operand": "50"
+     },
+     "right_operand": {
+          "expression_type": "or",
+          "left_operand": {
+               "expression_type": "or",
+               "left_operand": {
+                    "expression_type": "greater_than",
+                    "left_operand": "term",
+                    "right_operand": "6m"
+               },
+               "right_operand": {
+                    "expression_type": "less_than",
+                    "left_operand": "loan_amount",
+                    "right_operand": "5000"
+               }
+          },
+          "right_operand": {
+               "expression_type": "equals",
+               "left_operand": "occupation",
+               "right_operand": "manager"
+          }
+     }
+}
+
+{
+     "expression_type": "or",
+     "id": 98,
+     "left_operand": {
+          "child": {
+               "expression_type": "equals",
+               "left_operand": "loan_amount",
+               "right_operand": "50000"
+          },
+          "exoression_type": "not"
+     },
+     "right_operand": {
+          "expression_type": "equals",
+          "left_operand": "operation",
+          "right_operand": "greater_than"
+     }
+}
+
+{
+     "child": {
+          "expression_type": "equals",
+          "left_operand": "occupation",
+          "right_operand": "engineer"
+     },
+     "exoression_type": "not",
+     "id": 99
+}
+
